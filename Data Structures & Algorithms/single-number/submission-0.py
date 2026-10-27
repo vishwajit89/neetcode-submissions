@@ -6,4 +6,4 @@ class Solution:
                 seen.remove(num)
             else:
                     seen.add(num)
-        return seen.pop()
+        return seen.pop() 
